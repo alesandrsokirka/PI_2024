@@ -26,7 +26,7 @@
 
 Установка и использование
 
-1. Склонируйте репозиторий приложения с GitHub: [ссылка](https://github.com/sultanovemil/PI_2024).
+1. Склонируйте репозиторий приложения с GitHub: [ссылка](https://github.com/alesandrsokirka/PI_2024/tree/main).
 2. Установите необходимые зависимости, выполнив команду pip install -r requirements.txt.
 3. Запустите приложение, выполнив команду streamlit run project.pyв корневой папке проекта.
 4. Откройте веб-браузер и перейдите по адресу http://localhost:8501.

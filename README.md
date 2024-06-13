@@ -6,7 +6,7 @@
 
 Цель проекта: разработать Web приложение машинного обучения и развернуть его в облаке. В проекте используется модель blanchefort/rubert-base-cased-sentiment.
 
-Итоговый проект (PJ) доступен по ссылке на Hugging Face Spaces.
+Итоговый проект (PJ) доступен по [ссылке](https://huggingface.co/spaces/ASokirka/Pi_Project) на Hugging Face Spaces.
 
 Основные функции
 
